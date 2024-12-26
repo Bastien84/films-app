@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "josefin";
+  src: url(../assets/fonts/JosefinSans-VariableFont_wght.ttf);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  font-family: "josefin";
+}
+
+body {
+  background: #111111;
+}
